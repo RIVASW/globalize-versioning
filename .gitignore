@@ -10,3 +10,4 @@ Gemfile.lock
 *.gem
 .rbx
 gemfiles/*.lock
+.ruby-version
